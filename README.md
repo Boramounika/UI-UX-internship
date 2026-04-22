@@ -25,7 +25,7 @@ Designed a user-friendly mobile app signup flow to ensure a smooth onboarding ex
 - Figma
 
 ### 🔗 Figma Link
-(Add your link here)
+https://www.figma.com/design/wxB2w50CM2yioHAwYb5zbK/mobile-app-signup-flow?node-id=0-1&m=dev&t=El3vS2sZWtFlWUdF-1
 
 ---
 
@@ -48,7 +48,7 @@ Designed a professional and responsive email template for marketing purposes.
 - Figma
 
 ### 🔗 Figma Link
-(Add your link here)
+https://www.figma.com/design/DrbnaDQ9VpHHFLWpZavRJ7/Email-template?m=dev&t=El3vS2sZWtFlWUdF-1
 
 ---
 
@@ -71,7 +71,7 @@ Designed an intuitive and attractive restaurant menu interface.
 - Figma
 
 ### 🔗 Figma Link
-(Add your link here)
+https://www.figma.com/design/SUZRElPv4aSzykwpUOcRbl/restaurant-menu?m=dev&t=El3vS2sZWtFlWUdF-1
 
 ---
 
